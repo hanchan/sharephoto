@@ -1,0 +1,16 @@
+﻿.navi
+{
+    width:auto;height:100px;
+}
+
+.query
+{
+    width:150px;height:auto;
+}
+
+.map
+{
+    width:auto;height:auto;
+    display:inline;
+
+}
